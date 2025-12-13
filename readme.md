@@ -7,7 +7,7 @@ Moving forward, I would love to implement HomeKit or Matter support for this pro
 
 Note that the bulk of this project is programming the ESP, not building the hardware.
 
-![sch](https://github.com/Padimo/Sunny-Cloud/blob/main/schematic.jpg?raw=true)
-![pcb](https://github.com/Padimo/Sunny-Cloud/blob/main/pcb.jpg?raw=true)
-![front](https://github.com/Padimo/Sunny-Cloud/blob/main/model_front.jpg?raw=true)
-![back](https://github.com/Padimo/Sunny-Cloud/blob/main/sch.model_back?raw=true)
+![sch](https://github.com/Padimo/Sunny-Cloud/blob/main/schematic.png?raw=true)
+![pcb](https://github.com/Padimo/Sunny-Cloud/blob/main/pcb.png?raw=true)
+![front](https://github.com/Padimo/Sunny-Cloud/blob/main/model_front.png?raw=true)
+![back](https://github.com/Padimo/Sunny-Cloud/blob/main/model_back.png?raw=true)
