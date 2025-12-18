@@ -11,3 +11,5 @@ Note that the bulk of this project is programming the ESP, not building the hard
 ![pcb](https://github.com/Padimo/Sunny-Cloud/blob/main/pcb.png?raw=true)
 ![front](https://github.com/Padimo/Sunny-Cloud/blob/main/model_front.png?raw=true)
 ![back](https://github.com/Padimo/Sunny-Cloud/blob/main/model_back.png?raw=true)
+![case](https://github.com/Padimo/Sunny-Cloud/blob/main/cad1.png?raw=true)
+![case](https://github.com/Padimo/Sunny-Cloud/blob/main/cad2.png?raw=true)
